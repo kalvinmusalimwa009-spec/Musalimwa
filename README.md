@@ -8,15 +8,15 @@
 ║   ██║ ╚═╝ ██║╚██████╔╝███████║██║  ██║███████╗██║██║ ╚═╝ ██║
 ║   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝
 ║                                                               ║
-║              🚀 UNDER 18 • KENYA • FUTURE BUILDER            ║
+║           🌱 LEARNING • GROWING • BUILDING THE FUTURE        ║
 ╚═══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
   
-  ### 🌍 *"Building tomorrow's solutions, today"*
+  ### 🌍 *"Every expert was once a beginner — I'm on my journey!"*
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Musalimwa+👋;Innovator+%7C+Developer+%7C+Future+HealthTech+Lead;Python+%7C+AI+%7C+Web+Apps;Under+18+%7C+Kenya+%7C+Building+the+Future)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Musalimwa+👋;Aspiring+Web+Developer;Learning+Python+%26+JavaScript;Building+Websites+%7C+From+Kenya;Under+18+%7C+Future+Tech+Leader)](https://git.io/typing-svg)
   
 </div>
 
@@ -27,88 +27,122 @@
 ```python
 class Musalimwa:
     def __init__(self):
-        self.name = "Musalimwa"
+        self.name = "Kalvin Musalimwa Khadiakala"
         self.age = 17  # Under 18, breaking barriers
         self.location = "🇰🇪 Kenya"
-        self.role = "Innovator & Developer"
-        self.mission = "Empower healthcare through technology"
-        self.superpower = "Turning code into community impact"
+        self.school = "🏫 St. Mary's Kibabii Boys National School"
+        self.role = "High School Student & Aspiring Web Developer"
+        self.current_focus = "Learning web development and building websites"
+        self.goal = "Build websites that help my school and community"
+        self.motto = "Progress over perfection"
+        self.interests = ["Web Development", "Technology", "Design", "Learning"]
     
-    def say_hi(self):
-        print("Every line of code writes a better future 🌟")
-💡 "Age is just a number — innovation has no expiration date."
+    def learning_journey(self):
+        print("📚 Learning HTML, CSS, JavaScript, and Python 🚀")
+    
+    def school_life(self):
+        print("🏫 Balancing academics and coding at St. Mary's Kibabii Boys")
+    
+    def future_vision(self):
+        print("🌍 Using tech to make a difference in Kenya and beyond")
+💡 "I'm not perfect yet, but I'm better than I was yesterday."
 
-I'm a high school tech enthusiast from Kenya, passionate about using Python, AI, and web development to solve real-world problems. From designing sci-fi inspired websites to building digital products that connect schools and hospitals — I code with purpose.
-⚡ QUICK STATS
-<table align="center"> <tr> <td align="center"> <img src="https://img.shields.io/badge/🇰🇪-Kenya-success?style=for-the-badge" /> </td> <td align="center"> <img src="https://img.shields.io/badge/🎂-Under_18-ff69b4?style=for-the-badge" /> </td> <td align="center"> <img src="https://img.shields.io/badge/🧠-Innovator-blueviolet?style=for-the-badge" /> </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/💻-Python_Dev-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </td> <td align="center"> <img src="https://img.shields.io/badge/🤖-AI_Enthusiast-00ADD8?style=for-the-badge" /> </td> <td align="center"> <img src="https://img.shields.io/badge/🌐-Web_Builder-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> </td> </tr> </table>
-🛠️ TECH ARSENAL
+🏫 Who Am I?
+I'm Kalvin Musalimwa Khadiakala, a 17-year-old high school student at St. Mary's Kibabii Boys National School in Kenya. I'm passionate about web development and spend my free time learning how to build websites and web applications.
+
+🚀 My Journey
+My coding journey started with curiosity — I wanted to understand how websites work. Now, I'm on a mission to learn by doing. Every project I create teaches me something new, and I'm not afraid to make mistakes because that's how I grow.
+
+🎯 What Drives Me
+My School: I want to create digital solutions that help my school community
+
+My Community: I believe technology can solve real problems in Kenya
+
+My Growth: I'm committed to becoming a skilled web developer
+
+My Peers: I want to inspire other young people to learn coding
+
+💪 My Philosophy
+"I may not be the best developer yet, but I'm the best version of myself today compared to yesterday."
+
+📚 MY LEARNING JOURNEY
 <div align="center">
-💻 Languages & Frameworks
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+🎯 Currently Learning
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
+🛠️ Tools I Use
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+
+📖 Currently Exploring
 https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-
-🛠️ Tools & Platforms
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
-https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
 
 </div>
-<img width="2429" height="917" alt="deepseek_mermaid_20260623_7fb81c" src="https://github.com/user-attachments/assets/a6e8bd61-ff6c-40d9-862b-dbbefe2842e2" />
-graph LR
-    A[🌍 Community Impact] --> B[🏥 HealthTech Solutions]
-    A --> C[🏫 EdTech Platforms]
-    A --> D[🌐 Web Applications]
-    B --> E[AI + Medicine]
-    C --> F[Student Engagement]
-    D --> G[Scalable Products]
-🔥 What I'm Working On:
-HealthTech MVP — Connecting local clinics with digital record systems
+🌟 MY PROJECTS (Websites I've Built)
+Here are some websites I've created as I learn:
 
-School Connect — Platform linking students with STEM opportunities
+🏫 School Projects
+St. Mary's Kibabii Boys Website — Official school website for my school
 
-AI Diagnostic Tool — Exploring ML for early disease detection
+Kibabii Web — Another school web project
 
-Sci-Fi Branding — Designing futuristic UI/UX for youth engagement
+💼 Personal Projects
+Portfolio — My personal portfolio website
+
+Favour Business Website — A business website project
+
+🤖 Learning Projects
+Waste Detector — Jupyter Notebook project
+
+Python Projects — Learning Python fundamentals
+
+🚀 WHAT I'M WORKING ON
+Currently Building:
+✅ School Websites — Helping my school and community
+
+✅ Portfolio — Showcasing my work
+
+✅ Learning Projects — Practice makes perfect
+
+Goals for 2026:
+Build 5 more websites
+
+Learn JavaScript properly
+
+Create my first web app
+
+Contribute to open source (when I'm ready!)
+
+Teach other beginners what I've learned
+
 🎨 CREATIVE SIDE
 <div align="center">
-"Code meets culture"
-🎵 Vibe: Arbantone + Gengetone beats fuel my late-night coding sessions
-🎨 Design: Sci-fi inspired aesthetics with authentic African branding
-📸 Content: Creating tech content that resonates with Gen Z
-🧪 Innovation: Where traditional meets futuristic
+"Code meets creativity"
+🎵 Coding Vibe: Arbantone + Gengetone beats in the background
+🎨 Design: I love creating clean, modern websites
+📸 Content: I enjoy sharing my learning journey
+🧪 Innovation: Combining creativity with technology
 
 </div>
-🌟 NOTABLE ACHIEVEMENTS
-🏆 Active participant in STEM bootcamps across Kenya
-
-💡 Designed branding materials for school tech projects
-
-🤝 Mentored peers in Python & web development
-
-🎤 Speaker at youth tech awareness sessions
-
-🌍 Member of digital innovation communities
-
-🚀 PROJECT SHOWCASE
-<details> <summary><b>🔬 HealthTech Initiative</b></summary> <br> Building a digital solution to improve healthcare accessibility in underserved Kenyan communities. <br><br> </details><details> <summary><b>📚 EduConnect Platform</b></summary> <br> Connecting students with STEM resources, bootcamps, and mentorship opportunities. <br><br> </details><details> <summary><b>🎨 Sci-Fi Design Projects</b></summary> <br> Creating futuristic, youth-centric branding and UI/UX designs. <br><br> </details>
-📊 GITHUB ANALYTICS
+📊 MY GITHUB STATS
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=Musalimwa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF
+https://github-readme-stats.vercel.app/api?username=kalvinmusalimwa009-spec&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Musalimwa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF
+https://github-readme-stats.vercel.app/api/top-langs/?username=kalvinmusalimwa009-spec&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF
 
-https://github-readme-streak-stats.herokuapp.com/?user=Musalimwa&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF
+https://github-readme-streak-stats.herokuapp.com/?user=kalvinmusalimwa009-spec&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF
 
 </div>
 📈 ACTIVITY TRACKER
 <div align="center">
-https://github-readme-activity-graph.vercel.app/graph?username=Musalimwa&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F7FF&line=00F7FF&point=FFFFFF
+https://github-readme-activity-graph.vercel.app/graph?username=kalvinmusalimwa009-spec&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F7FF&line=00F7FF&point=FFFFFF
 
 </div>
 🤝 LET'S CONNECT
@@ -121,35 +155,23 @@ https://img.shields.io/badge/%F0%9F%93%B8-Instagram-E4405F?style=for-the-badge&l
 </div>
 📬 REACH OUT FOR
 <div align="center">
-🤝 Collaboration	💡 Ideas	🧠 Mentorship	🚀 Projects
-Open Source	Innovation	Peer Learning	HealthTech
+🤝 Collaboration	💡 Learning	🧠 Knowledge Sharing	🚀 Support
+Web Projects	Ideas	Peer Learning	Mentorship
 </div>
-🎯 MY 2026 ROADMAP
-Launch HealthTech MVP
-
-Contribute to 10+ open source projects
-
-Build a community of young Kenyan developers
-
-Explore advanced AI/ML applications
-
-Scale digital products to reach 10,000+ users
-
 💬 SUPPORT MY JOURNEY
 <div align="center">
-If you believe in young innovators changing the world, consider:
+I'm just getting started, and every bit of support helps!
 
-⭐ Starring this repository
-🔗 Connecting with me
-📢 Sharing my work
-🤝 Collaborating on projects
+⭐ Star my repositories
+🔗 Connect with me
+📢 Share my work
+🤝 Give me feedback
 
 </div>
 <div align="center">
-💬 "The future belongs to those who build it — and we're building it NOW."
-⭐️ Star this repo if you believe in young innovators ⭐️
+💬 "The best time to start was yesterday. The next best time is now."
+⭐️ Star this repo if you believe in young developers ⭐️
 
-https://komarev.com/ghpvc/?username=Musalimwa&label=Visitors&color=00F7FF&style=flat
+https://komarev.com/ghpvc/?username=kalvinmusalimwa009-spec&label=Visitors&color=00F7FF&style=flat
 
 </div> ```
-
