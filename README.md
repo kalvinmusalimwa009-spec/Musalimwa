@@ -45,6 +45,7 @@ class Musalimwa:
     
     def future_vision(self):
         print("🌍 Using tech to make a difference in Kenya and beyond")
+```
 💡 "I'm not perfect yet, but I'm better than I was yesterday."
 
 🏫 Who Am I?
